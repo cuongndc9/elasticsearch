@@ -1,0 +1,49 @@
+{
+  "settings":{
+    "index": {
+      "number_of_shards": 5,
+      "number_of_replicas": 2
+    },
+    "analysis":{
+      "analyzer":{
+        "vietnamese_analyzer":{
+          "tokenizer": "vi_tokenizer",
+          "filter": [
+            "icu_folding",
+            "lowercase"
+          ]
+        },
+        "vietnamese_analyzer_2":{
+          "tokenizer": "standard",
+          "filter": [
+            "icu_folding",
+            "lowercase"
+          ]
+        }
+      }
+    }
+  },
+  "mappings":{
+    "properties":{
+      "id": {
+        "type": "text"
+      },
+      "name":{
+        "type":"text",
+        "analyzer":"vietnamese_analyzer"
+      },
+      "bio": {
+        "type":"text",
+        "analyzer":"vietnamese_analyzer"
+      },
+      "bio_2": {
+        "type":"text",
+        "analyzer":"vietnamese_analyzer_2"
+      },
+      "bio_3": {
+        "type":"text",
+        "analyzer":"vi_analyzer"
+      }
+    }
+  }
+}

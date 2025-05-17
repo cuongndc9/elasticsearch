@@ -263,5 +263,5 @@ curl -X POST 'http://localhost:9200/_reindex' -H 'content-type: application/json
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 The best way to predict the future is to create it.
-🧑‍💻
+🐶
 <!-- INSPIRATIONAL_QUOTE_END -->

@@ -336,5 +336,5 @@ curl -X GET 'http://127.0.0.1:9200/cats/_search?q=gender:female'
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🦖
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->

@@ -263,6 +263,6 @@ curl -X POST 'http://localhost:9200/_reindex' -H 'content-type: application/json
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🐶
+Action beats perfection.
+🐯
 <!-- INSPIRATIONAL_QUOTE_END -->

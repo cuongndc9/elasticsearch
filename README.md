@@ -30,6 +30,6 @@ docker run --name elasticsearch -p 9200:9200 -e "discovery.type=single-node" ela
 MIT
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🧑‍💻,
+Stay curious. Keep learning. Keep growing.
+👻
 <!-- INSPIRATIONAL_QUOTE_END -->

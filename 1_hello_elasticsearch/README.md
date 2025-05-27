@@ -335,6 +335,6 @@ curl -X GET 'http://127.0.0.1:9200/cats/_search?q=gender:female'
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🦖
+Be a lifelong learner, not a know-it-all.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->

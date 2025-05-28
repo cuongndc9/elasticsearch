@@ -70,6 +70,6 @@ curl -X POST -H "Accept:application/json" -H  "Content-Type:application/json" 'h
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
+The best way to predict the future is to create it.
 👻
 <!-- INSPIRATIONAL_QUOTE_END -->

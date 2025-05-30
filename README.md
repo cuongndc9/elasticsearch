@@ -30,6 +30,6 @@ docker run --name elasticsearch -p 9200:9200 -e "discovery.type=single-node" ela
 MIT
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🦄
+Be a lifelong learner, not a know-it-all.
+👻
 <!-- INSPIRATIONAL_QUOTE_END -->

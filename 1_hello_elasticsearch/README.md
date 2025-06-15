@@ -335,5 +335,5 @@ curl -X GET 'http://127.0.0.1:9200/cats/_search?q=gender:female'
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/0e3d9ba0-f624-4a99-8a33-88703033a2a1)
+> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 <!-- INSPIRATIONAL_QUOTE_END -->

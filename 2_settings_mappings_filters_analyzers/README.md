@@ -263,5 +263,5 @@ curl -X POST 'http://localhost:9200/_reindex' -H 'content-type: application/json
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-![Image](https://github.com/user-attachments/assets/e5dd7943-9aef-4ee2-94a1-c411600f6674)
+> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 <!-- INSPIRATIONAL_QUOTE_END -->

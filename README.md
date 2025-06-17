@@ -30,5 +30,5 @@ docker run --name elasticsearch -p 9200:9200 -e "discovery.type=single-node" ela
 MIT
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+> "It is during our darkest moments that we must focus to see the light." - Aristotle
 <!-- INSPIRATIONAL_QUOTE_END -->

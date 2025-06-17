@@ -70,5 +70,5 @@ curl -X POST -H "Accept:application/json" -H  "Content-Type:application/json" 'h
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "In the middle of difficulty lies opportunity." - Albert Einstein
+> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
 <!-- INSPIRATIONAL_QUOTE_END -->

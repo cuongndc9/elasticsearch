@@ -335,5 +335,5 @@ curl -X GET 'http://127.0.0.1:9200/cats/_search?q=gender:female'
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+> "Don't let yesterday take up too much of today." - Will Rogers
 <!-- INSPIRATIONAL_QUOTE_END -->

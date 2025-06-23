@@ -3,5 +3,5 @@
 🌱 TypeScript template
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "In the middle of difficulty lies opportunity." - Albert Einstein
+> "Life is what happens to you while you're busy making other plans." - John Lennon
 <!-- INSPIRATIONAL_QUOTE_END -->

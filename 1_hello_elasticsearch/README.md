@@ -335,5 +335,5 @@ curl -X GET 'http://127.0.0.1:9200/cats/_search?q=gender:female'
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->

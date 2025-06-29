@@ -30,5 +30,5 @@ docker run --name elasticsearch -p 9200:9200 -e "discovery.type=single-node" ela
 MIT
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
 <!-- INSPIRATIONAL_QUOTE_END -->

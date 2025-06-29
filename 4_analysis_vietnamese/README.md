@@ -70,5 +70,5 @@ curl -X POST -H "Accept:application/json" -H  "Content-Type:application/json" 'h
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->

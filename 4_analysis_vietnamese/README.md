@@ -70,5 +70,5 @@ curl -X POST -H "Accept:application/json" -H  "Content-Type:application/json" 'h
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It is during our darkest moments that we must focus to see the light." - Aristotle
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->

@@ -263,5 +263,5 @@ curl -X POST 'http://localhost:9200/_reindex' -H 'content-type: application/json
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty." - Winston Churchill
+> "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 <!-- INSPIRATIONAL_QUOTE_END -->
